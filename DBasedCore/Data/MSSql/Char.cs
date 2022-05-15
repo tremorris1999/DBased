@@ -10,7 +10,7 @@ public class Char: IDataType
     public Char(int width)
     {
         if(width > 8000 || width < 1)
-            throw ArgumentException("Char width must be between 1 and 8000 inclusive.");
+            throw new ArgumentException("Char width must be between 1 and 8000 inclusive.");
 
         Width = width;
     }
