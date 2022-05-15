@@ -1,0 +1,12 @@
+/home/trevor/repos/dbased/DBased/obj/Debug/net6.0/DBased.csproj.AssemblyReference.cache
+/home/trevor/repos/dbased/DBased/obj/Debug/net6.0/DBased.GeneratedMSBuildEditorConfig.editorconfig
+/home/trevor/repos/dbased/DBased/obj/Debug/net6.0/DBased.AssemblyInfoInputs.cache
+/home/trevor/repos/dbased/DBased/obj/Debug/net6.0/DBased.AssemblyInfo.cs
+/home/trevor/repos/dbased/DBased/obj/Debug/net6.0/DBased.csproj.CoreCompileInputs.cache
+/home/trevor/repos/dbased/DBased/bin/Debug/net6.0/DBased.deps.json
+/home/trevor/repos/dbased/DBased/bin/Debug/net6.0/DBased.dll
+/home/trevor/repos/dbased/DBased/bin/Debug/net6.0/ref/DBased.dll
+/home/trevor/repos/dbased/DBased/bin/Debug/net6.0/DBased.pdb
+/home/trevor/repos/dbased/DBased/obj/Debug/net6.0/DBased.dll
+/home/trevor/repos/dbased/DBased/obj/Debug/net6.0/ref/DBased.dll
+/home/trevor/repos/dbased/DBased/obj/Debug/net6.0/DBased.pdb
