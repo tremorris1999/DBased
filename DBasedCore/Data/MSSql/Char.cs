@@ -4,7 +4,7 @@ namespace DBased.Data.MSSql;
 
 public class Char: IDataType
 {
-    Classification IDataType.classification { get { return Classification.StringClass; } }
+    Classification IDataType.Classification { get { return Classification.StringClass; } }
     public int Width { get; }
 
     public Char(int width)

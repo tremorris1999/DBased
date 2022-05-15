@@ -2,5 +2,5 @@ namespace DBased.Data;
 
 public interface IDataType
 {
-    public abstract Classification classification { get; }
+    public abstract Classification Classification { get; }
 }
