@@ -2,12 +2,7 @@ using DBased.Management;
 
 namespace DBased.Schema;
 
-public class Schema
+public interface ISchema
 {
-    public DBManagementSystem DBMS { get;}
-
-    public Schema(DBManagementSystem dbms)
-    {
-        DBMS = dbms;
-    }
+    public IDBManagementSystem DBMS { get;}
 }
