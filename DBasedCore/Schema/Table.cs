@@ -13,7 +13,7 @@ public class Table
     public Table(string name)
     {
         Name = name;
-        Columns = new Column[1]{ new Column("id")};
+        Columns = new Column[1]{ new Column()};
         PrimaryKey = new PrimaryKey(Columns.ToArray()[0]);
         CandidateKeys = new IKey[0];
         ForeignKeys = new IKey[0];

@@ -4,18 +4,17 @@ namespace DBased.Schema;
 
 public class Column
 {
-    public IDataType DataType { get; }
+    public DataType DataType { get; }
     public string Name { get; }
 
-    public Column(string name)
+    public Column()
     {
-        DataType = new GenericInt();
-        Name = name;
+        DataType = MSDataType.Char;
+        Name = "Default";
     }
-    public Column(IDataType type, string name)
+    public Column(DataType type, string name)
     {
         DataType = type;
         Name = name;
     }
-
 }
